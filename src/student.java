@@ -6,7 +6,7 @@
 
 /**
  *
- * @author rsukh
+ * @author rsukh --may/2020
  */
 public class student {
     
